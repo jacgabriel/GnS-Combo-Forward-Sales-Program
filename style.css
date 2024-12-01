@@ -1,0 +1,15 @@
+body{
+    background-image: url(Podcast.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+audio{
+    position: relative;
+    top: 25px;
+    left: 100px;
+    
+
+}
